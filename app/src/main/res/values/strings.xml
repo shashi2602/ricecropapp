@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rice Diseases Detector</string>
+    <string name="Selectimage">Select image to Detect</string>
+</resources>
